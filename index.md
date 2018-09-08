@@ -1,3 +1,3 @@
 Start typing below!
 
-<iframe src="https://google.com" contenteditable></iframe>
+<iframe src="./index.html" contenteditable></iframe>
