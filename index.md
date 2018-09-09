@@ -1,3 +1,5 @@
 Start typing below!
 
-<iframe src="./index.html" contenteditable></iframe>
+<code contenteditable></code>
+
+[Fullscreen](./fullscreen.html)
