@@ -1,5 +1,5 @@
 Start typing below!
 
-<code contenteditable></code>
+<code contenteditable>Example Text</code>
 
 [Fullscreen](./fullscreen.html)
